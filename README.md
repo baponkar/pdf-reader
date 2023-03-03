@@ -5,7 +5,7 @@ This CMD based project convert any pdf document into speech.
 <<<<<<< HEAD
 Screenshot
 
-![Screenshot]("https://github.com/baponkar/pdf-reader/blob/main/screenshots/Screenshot.png")
+![Screenshot]("/main/screenshots/Screenshot.png")
 
 =======
 It is also included a [Windows .exe file](https://github.com/baponkar/pdf-reader/blob/main/main.exe)
