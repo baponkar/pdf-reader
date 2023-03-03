@@ -16,3 +16,4 @@ It is also included a [Windows .exe file](https://github.com/baponkar/pdf-reader
 [1] [PyPDF2](https://pypi.org/project/PyPDF2/)
 
 [2] [pyttsx3](https://pypi.org/project/pyttsx3/)
+
